@@ -1,0 +1,15 @@
+form{
+    width: 350px;
+    margin: 0 auto;
+}
+form input{
+    width: 100%;
+    text-align: center;
+    padding: 4px;
+    margin-top: 5px;
+}
+form input[type="submit"]{
+    background-color: #1d3452;
+    color: #fafafa;
+    margin-bottom: 5%;
+}

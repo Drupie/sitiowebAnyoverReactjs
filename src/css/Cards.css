@@ -1,0 +1,24 @@
+main{
+
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}main div{
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 5%;
+margin-bottom: 5%;
+}
+main div img{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+main div h1{
+    width: 100%;
+    font-size: 25px;
+}
+main div p{
+    width: 80%;
+    text-align: justify;
+}
